@@ -1,5 +1,7 @@
 # ska-mid-dish-structure-controller
 
+This Project is the repo for the dish structure controller that is currently underdevelopment. Unfortunately you will need a licencend version of Indraworks to access the contents of the project files. 
+Currently there are two branches Main whic will retain the project used in the controller to controll the dishes. The Simulation branch exist as a repo for the version of the main branch that uses virtual axes and can run on a controller without the servo amplifiers and DIO 
 
 
 ## Getting started
