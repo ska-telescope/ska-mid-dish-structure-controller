@@ -1,5 +1,7 @@
 # ska-mid-dish-structure-controller
-
+This repository is used to store the project files for the indraworks developemnt environment that is used to develop the software for the Dish structure controller
+The main branch will be used for the production code. The Simulation sub-branch is used for the project that is running on the PLC's in the ITF without the motors. Also under the main branch there may be pedestal specific brnaches such as ska063 which is a pedestal specific software.
+In the case of ska063 the pedestal is being used to develop the project with hardware integration to a point where the software can be released to the main branch.
 
 
 ## Getting started
